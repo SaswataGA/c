@@ -1,2 +1,0 @@
-# c
-if else.c
